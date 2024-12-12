@@ -1,0 +1,4 @@
+totalTickets=2
+maxTicketCapacity=2
+ticketReleaseRate=2
+customerRetrievalRate=2

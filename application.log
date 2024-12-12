@@ -1,0 +1,949 @@
+2024-12-10 19:47:28 - Application started
+2024-12-10 19:47:44 - Ticket pool created with capacity: 5
+2024-12-10 19:47:44 - Vendor 1 started
+2024-12-10 19:47:44 - Vendor 2 started
+2024-12-10 19:47:44 - Vendor 3 started
+2024-12-10 19:47:44 - Vendor 4 started
+2024-12-10 19:47:44 - Vendor 5 started
+2024-12-10 19:47:44 - Vendor 6 started
+2024-12-10 19:47:44 - Vendor 7 started
+2024-12-10 19:47:44 - Vendor 8 started
+2024-12-10 19:47:44 - Vendor 9 started
+2024-12-10 19:47:44 - Vendor 10 started
+2024-12-10 19:47:44 - Customer 1 started
+2024-12-10 19:47:44 - Customer 2 started
+2024-12-10 19:47:44 - Customer 3 started
+2024-12-10 19:47:44 - Customer 4 started
+2024-12-10 19:47:44 - Customer 5 started
+2024-12-10 19:47:44 - Customer 6 started
+2024-12-10 19:47:44 - Customer 7 started
+2024-12-10 19:47:44 - Customer 8 started
+2024-12-10 19:47:44 - Customer 9 started
+2024-12-10 19:47:44 - Customer 10 started
+2024-12-10 19:47:44 - Configuration saved.
+2024-12-10 19:47:44 - Application finished
+2024-12-10 19:49:00 - Application started
+2024-12-10 19:49:08 - Ticket pool created with capacity: 10
+2024-12-10 19:49:08 - Vendor 1 released tickets
+2024-12-10 19:49:08 - Vendor 2 released tickets
+2024-12-10 19:49:08 - Vendor 3 released tickets
+2024-12-10 19:49:08 - Vendor 4 released tickets
+2024-12-10 19:49:08 - Vendor 5 released tickets
+2024-12-10 19:49:08 - Vendor 6 released tickets
+2024-12-10 19:49:08 - Vendor 7 released tickets
+2024-12-10 19:49:08 - Vendor 8 released tickets
+2024-12-10 19:49:08 - Vendor 9 released tickets
+2024-12-10 19:49:08 - Vendor 10 released tickets
+2024-12-10 19:49:08 - Customer 1 purchased tickets
+2024-12-10 19:49:08 - Customer 2 purchased tickets
+2024-12-10 19:49:08 - Customer 3 purchased tickets
+2024-12-10 19:49:08 - Customer 4 purchased tickets
+2024-12-10 19:49:08 - Customer 5 purchased tickets
+2024-12-10 19:49:08 - Customer 6 purchased tickets
+2024-12-10 19:49:08 - Customer 7 purchased tickets
+2024-12-10 19:49:08 - Customer 8 purchased tickets
+2024-12-10 19:49:08 - Customer 9 purchased tickets
+2024-12-10 19:49:08 - Customer 10 purchased tickets
+2024-12-10 19:49:08 - Configuration saved.
+2024-12-10 19:49:08 - Application finished
+2024-12-10 19:54:03 - Application started
+2024-12-10 19:54:11 - Ticket pool created with capacity: 2
+2024-12-10 19:54:11 - Vendor 1 released tickets
+2024-12-10 19:54:11 - Vendor 2 released tickets
+2024-12-10 19:54:11 - Vendor 3 released tickets
+2024-12-10 19:54:11 - Vendor 4 released tickets
+2024-12-10 19:54:11 - Vendor 5 released tickets
+2024-12-10 19:54:11 - Vendor 6 released tickets
+2024-12-10 19:54:11 - Vendor 7 released tickets
+2024-12-10 19:54:11 - Vendor 8 released tickets
+2024-12-10 19:54:11 - Vendor 9 released tickets
+2024-12-10 19:54:11 - Vendor 10 released tickets
+2024-12-10 19:54:11 - Customer 1 purchased tickets
+2024-12-10 19:54:11 - Customer 2 purchased tickets
+2024-12-10 19:54:11 - Customer 3 purchased tickets
+2024-12-10 19:54:11 - Customer 4 purchased tickets
+2024-12-10 19:54:11 - Customer 5 purchased tickets
+2024-12-10 19:54:11 - Customer 6 purchased tickets
+2024-12-10 19:54:11 - Customer 7 purchased tickets
+2024-12-10 19:54:11 - Customer 8 purchased tickets
+2024-12-10 19:54:11 - Customer 9 purchased tickets
+2024-12-10 19:54:11 - Customer 10 purchased tickets
+2024-12-10 19:54:11 - Configuration saved.
+2024-12-10 19:54:11 - Application finished
+2024-12-10 19:55:36 - Application started
+2024-12-10 19:55:42 - Ticket pool created with capacity: 2
+2024-12-10 19:55:42 - Vendor 1 released tickets
+2024-12-10 19:55:42 - Vendor 2 released tickets
+2024-12-10 19:55:42 - Vendor 3 released tickets
+2024-12-10 19:55:42 - Vendor 4 released tickets
+2024-12-10 19:55:42 - Vendor 5 released tickets
+2024-12-10 19:55:42 - Vendor 6 released tickets
+2024-12-10 19:55:42 - Vendor 7 released tickets
+2024-12-10 19:55:42 - Vendor 8 released tickets
+2024-12-10 19:55:42 - Vendor 9 released tickets
+2024-12-10 19:55:42 - Vendor 10 released tickets
+2024-12-10 19:55:42 - Customer 1 purchased tickets
+2024-12-10 19:55:42 - Customer 2 purchased tickets
+2024-12-10 19:55:42 - Customer 3 purchased tickets
+2024-12-10 19:55:42 - Customer 4 purchased tickets
+2024-12-10 19:55:42 - Customer 5 purchased tickets
+2024-12-10 19:55:42 - Customer 6 purchased tickets
+2024-12-10 19:55:42 - Customer 7 purchased tickets
+2024-12-10 19:55:42 - Customer 8 purchased tickets
+2024-12-10 19:55:42 - Customer 9 purchased tickets
+2024-12-10 19:55:42 - Customer 10 purchased tickets
+2024-12-10 19:55:42 - Configuration saved.
+2024-12-10 19:55:42 - Application finished
+2024-12-10 20:00:24 - Application started
+2024-12-10 20:00:32 - Ticket pool created with capacity: 2
+2024-12-10 20:00:32 - Vendor 1 released tickets
+2024-12-10 20:00:32 - Vendor 2 released tickets
+2024-12-10 20:00:32 - Vendor 3 released tickets
+2024-12-10 20:00:32 - Vendor 4 released tickets
+2024-12-10 20:00:32 - Vendor 5 released tickets
+2024-12-10 20:00:32 - Vendor 6 released tickets
+2024-12-10 20:00:32 - Vendor 7 released tickets
+2024-12-10 20:00:32 - Vendor 8 released tickets
+2024-12-10 20:00:32 - Vendor 9 released tickets
+2024-12-10 20:00:32 - Vendor 10 released tickets
+2024-12-10 20:00:32 - Customer 1 purchased tickets
+2024-12-10 20:00:32 - Customer 2 purchased tickets
+2024-12-10 20:00:32 - Customer 3 purchased tickets
+2024-12-10 20:00:32 - Customer 4 purchased tickets
+2024-12-10 20:00:32 - Customer 5 purchased tickets
+2024-12-10 20:00:32 - Customer 6 purchased tickets
+2024-12-10 20:00:32 - Customer 7 purchased tickets
+2024-12-10 20:00:32 - Customer 8 purchased tickets
+2024-12-10 20:00:32 - Customer 9 purchased tickets
+2024-12-10 20:00:32 - Customer 10 purchased tickets
+2024-12-10 20:00:32 - Configuration saved.
+2024-12-10 20:00:32 - Application finished
+2024-12-10 20:01:13 - Application started
+2024-12-10 20:01:19 - Ticket pool created with capacity: 2
+2024-12-10 20:01:19 - Vendor 1 released tickets
+2024-12-10 20:01:19 - Vendor 2 released tickets
+2024-12-10 20:01:19 - Vendor 3 released tickets
+2024-12-10 20:01:19 - Vendor 4 released tickets
+2024-12-10 20:01:19 - Vendor 5 released tickets
+2024-12-10 20:01:19 - Vendor 6 released tickets
+2024-12-10 20:01:19 - Vendor 7 released tickets
+2024-12-10 20:01:19 - Vendor 8 released tickets
+2024-12-10 20:01:19 - Vendor 9 released tickets
+2024-12-10 20:01:19 - Vendor 10 released tickets
+2024-12-10 20:01:19 - Customer 1 purchased tickets
+2024-12-10 20:01:19 - Customer 2 purchased tickets
+2024-12-10 20:01:19 - Customer 3 purchased tickets
+2024-12-10 20:01:19 - Customer 4 purchased tickets
+2024-12-10 20:01:19 - Customer 5 purchased tickets
+2024-12-10 20:01:19 - Customer 6 purchased tickets
+2024-12-10 20:01:19 - Customer 7 purchased tickets
+2024-12-10 20:01:19 - Customer 8 purchased tickets
+2024-12-10 20:01:19 - Customer 9 purchased tickets
+2024-12-10 20:01:19 - Customer 10 purchased tickets
+2024-12-10 20:01:19 - Configuration saved.
+2024-12-10 20:01:19 - Application finished
+2024-12-10 20:02:18 - Application started
+2024-12-10 20:03:52 - Ticket pool created with capacity: 2
+2024-12-10 20:03:52 - Vendor 1 released tickets
+2024-12-10 20:03:52 - Vendor 2 released tickets
+2024-12-10 20:03:52 - Vendor 3 released tickets
+2024-12-10 20:03:52 - Vendor 4 released tickets
+2024-12-10 20:03:52 - Vendor 5 released tickets
+2024-12-10 20:03:52 - Vendor 6 released tickets
+2024-12-10 20:03:52 - Vendor 7 released tickets
+2024-12-10 20:03:52 - Vendor 8 released tickets
+2024-12-10 20:03:52 - Vendor 9 released tickets
+2024-12-10 20:03:52 - Vendor 10 released tickets
+2024-12-10 20:03:52 - Customer 1 purchased tickets
+2024-12-10 20:03:52 - Customer 2 purchased tickets
+2024-12-10 20:03:52 - Customer 3 purchased tickets
+2024-12-10 20:03:52 - Customer 4 purchased tickets
+2024-12-10 20:03:52 - Customer 5 purchased tickets
+2024-12-10 20:03:52 - Customer 6 purchased tickets
+2024-12-10 20:03:52 - Customer 7 purchased tickets
+2024-12-10 20:03:52 - Customer 8 purchased tickets
+2024-12-10 20:03:52 - Customer 9 purchased tickets
+2024-12-10 20:03:52 - Customer 10 purchased tickets
+2024-12-10 20:03:52 - Configuration saved.
+2024-12-10 20:03:52 - Application finished
+2024-12-10 20:05:08 - Application started
+2024-12-10 20:05:15 - Ticket pool created with capacity: 2
+2024-12-10 20:05:15 - Vendor 1 released tickets
+2024-12-10 20:05:15 - Vendor 2 released tickets
+2024-12-10 20:05:15 - Vendor 3 released tickets
+2024-12-10 20:05:15 - Vendor 4 released tickets
+2024-12-10 20:05:15 - Vendor 5 released tickets
+2024-12-10 20:05:15 - Vendor 6 released tickets
+2024-12-10 20:05:15 - Vendor 7 released tickets
+2024-12-10 20:05:15 - Vendor 8 released tickets
+2024-12-10 20:05:15 - Vendor 9 released tickets
+2024-12-10 20:05:15 - Vendor 10 released tickets
+2024-12-10 20:05:15 - Customer 1 purchased tickets
+2024-12-10 20:05:15 - Customer 2 purchased tickets
+2024-12-10 20:05:15 - Customer 3 purchased tickets
+2024-12-10 20:05:15 - Customer 4 purchased tickets
+2024-12-10 20:05:15 - Customer 5 purchased tickets
+2024-12-10 20:05:15 - Customer 6 purchased tickets
+2024-12-10 20:05:15 - Customer 7 purchased tickets
+2024-12-10 20:05:15 - Customer 8 purchased tickets
+2024-12-10 20:05:15 - Customer 9 purchased tickets
+2024-12-10 20:05:15 - Customer 10 purchased tickets
+2024-12-10 20:05:15 - Configuration saved.
+2024-12-10 20:05:15 - Application finished
+2024-12-10 20:05:55 - Application started
+2024-12-10 20:06:00 - Ticket pool created with capacity: 2
+2024-12-10 20:06:00 - Vendor 1 released tickets
+2024-12-10 20:06:00 - Vendor 2 released tickets
+2024-12-10 20:06:00 - Vendor 3 released tickets
+2024-12-10 20:06:00 - Vendor 4 released tickets
+2024-12-10 20:06:00 - Vendor 5 released tickets
+2024-12-10 20:06:00 - Vendor 6 released tickets
+2024-12-10 20:06:00 - Vendor 7 released tickets
+2024-12-10 20:06:00 - Vendor 8 released tickets
+2024-12-10 20:06:00 - Vendor 9 released tickets
+2024-12-10 20:06:00 - Vendor 10 released tickets
+2024-12-10 20:06:00 - Customer 1 purchased tickets
+2024-12-10 20:06:00 - Customer 2 purchased tickets
+2024-12-10 20:06:00 - Customer 3 purchased tickets
+2024-12-10 20:06:00 - Customer 4 purchased tickets
+2024-12-10 20:06:00 - Customer 5 purchased tickets
+2024-12-10 20:06:00 - Customer 6 purchased tickets
+2024-12-10 20:06:00 - Customer 7 purchased tickets
+2024-12-10 20:06:00 - Customer 8 purchased tickets
+2024-12-10 20:06:00 - Customer 9 purchased tickets
+2024-12-10 20:06:00 - Customer 10 purchased tickets
+2024-12-10 20:06:00 - Configuration saved.
+2024-12-10 20:06:00 - Application finished
+2024-12-10 20:10:22 - Application started
+2024-12-10 20:10:27 - Ticket pool created with capacity: 2
+2024-12-10 20:10:27 - Vendor 1 released tickets
+2024-12-10 20:10:27 - Vendor 2 released tickets
+2024-12-10 20:10:27 - Vendor 3 released tickets
+2024-12-10 20:10:27 - Vendor 4 released tickets
+2024-12-10 20:10:27 - Vendor 5 released tickets
+2024-12-10 20:10:27 - Vendor 6 released tickets
+2024-12-10 20:10:27 - Vendor 7 released tickets
+2024-12-10 20:10:27 - Vendor 8 released tickets
+2024-12-10 20:10:27 - Vendor 9 released tickets
+2024-12-10 20:10:27 - Vendor 10 released tickets
+2024-12-10 20:10:27 - Customer 1 purchased tickets
+2024-12-10 20:10:27 - Customer 2 purchased tickets
+2024-12-10 20:10:27 - Customer 3 purchased tickets
+2024-12-10 20:10:27 - Customer 4 purchased tickets
+2024-12-10 20:10:27 - Customer 5 purchased tickets
+2024-12-10 20:10:27 - Customer 6 purchased tickets
+2024-12-10 20:10:27 - Customer 7 purchased tickets
+2024-12-10 20:10:27 - Customer 8 purchased tickets
+2024-12-10 20:10:27 - Customer 9 purchased tickets
+2024-12-10 20:10:27 - Customer 10 purchased tickets
+2024-12-10 20:10:27 - Configuration saved.
+2024-12-10 20:10:27 - Application finished
+2024-12-10 20:14:43 - Application started
+2024-12-10 20:14:46 - Ticket pool created with capacity: 2
+2024-12-10 20:14:46 - Vendor 1 released tickets
+2024-12-10 20:14:46 - Vendor 2 released tickets
+2024-12-10 20:14:46 - Vendor 3 released tickets
+2024-12-10 20:14:46 - Vendor 4 released tickets
+2024-12-10 20:14:46 - Vendor 5 released tickets
+2024-12-10 20:14:46 - Vendor 6 released tickets
+2024-12-10 20:14:46 - Vendor 7 released tickets
+2024-12-10 20:14:46 - Vendor 8 released tickets
+2024-12-10 20:14:46 - Vendor 9 released tickets
+2024-12-10 20:14:46 - Vendor 10 released tickets
+2024-12-10 20:14:46 - Customer 1 purchased tickets
+2024-12-10 20:14:46 - Customer 2 purchased tickets
+2024-12-10 20:14:46 - Customer 3 purchased tickets
+2024-12-10 20:14:46 - Customer 4 purchased tickets
+2024-12-10 20:14:46 - Customer 5 purchased tickets
+2024-12-10 20:14:46 - Customer 6 purchased tickets
+2024-12-10 20:14:46 - Customer 7 purchased tickets
+2024-12-10 20:14:46 - Customer 8 purchased tickets
+2024-12-10 20:14:46 - Customer 9 purchased tickets
+2024-12-10 20:14:46 - Customer 10 purchased tickets
+2024-12-10 20:14:46 - Configuration saved.
+2024-12-10 20:14:46 - Application finished
+2024-12-10 20:15:20 - Application started
+2024-12-10 20:15:25 - Ticket pool created with capacity: 2
+2024-12-10 20:15:25 - Vendor 1 released tickets
+2024-12-10 20:15:25 - Vendor 2 released tickets
+2024-12-10 20:15:25 - Vendor 3 released tickets
+2024-12-10 20:15:25 - Vendor 4 released tickets
+2024-12-10 20:15:25 - Vendor 5 released tickets
+2024-12-10 20:15:25 - Vendor 6 released tickets
+2024-12-10 20:15:25 - Vendor 7 released tickets
+2024-12-10 20:15:25 - Vendor 8 released tickets
+2024-12-10 20:15:25 - Vendor 9 released tickets
+2024-12-10 20:15:25 - Vendor 10 released tickets
+2024-12-10 20:15:25 - Customer 1 purchased tickets
+2024-12-10 20:15:25 - Customer 2 purchased tickets
+2024-12-10 20:15:25 - Customer 3 purchased tickets
+2024-12-10 20:15:25 - Customer 4 purchased tickets
+2024-12-10 20:15:25 - Customer 5 purchased tickets
+2024-12-10 20:15:25 - Customer 6 purchased tickets
+2024-12-10 20:15:25 - Customer 7 purchased tickets
+2024-12-10 20:15:25 - Customer 8 purchased tickets
+2024-12-10 20:15:25 - Customer 9 purchased tickets
+2024-12-10 20:15:25 - Customer 10 purchased tickets
+2024-12-10 20:15:25 - Configuration saved.
+2024-12-10 20:15:25 - Application finished
+2024-12-10 20:15:56 - Application started
+2024-12-10 20:15:59 - Ticket pool created with capacity: 2
+2024-12-10 20:15:59 - Vendor 1 released tickets
+2024-12-10 20:15:59 - Vendor 2 released tickets
+2024-12-10 20:15:59 - Vendor 3 released tickets
+2024-12-10 20:15:59 - Vendor 4 released tickets
+2024-12-10 20:15:59 - Vendor 5 released tickets
+2024-12-10 20:15:59 - Vendor 6 released tickets
+2024-12-10 20:15:59 - Vendor 7 released tickets
+2024-12-10 20:15:59 - Vendor 8 released tickets
+2024-12-10 20:15:59 - Vendor 9 released tickets
+2024-12-10 20:15:59 - Vendor 10 released tickets
+2024-12-10 20:15:59 - Customer 1 purchased tickets
+2024-12-10 20:15:59 - Customer 2 purchased tickets
+2024-12-10 20:15:59 - Customer 3 purchased tickets
+2024-12-10 20:15:59 - Customer 4 purchased tickets
+2024-12-10 20:15:59 - Customer 5 purchased tickets
+2024-12-10 20:15:59 - Customer 6 purchased tickets
+2024-12-10 20:15:59 - Customer 7 purchased tickets
+2024-12-10 20:15:59 - Customer 8 purchased tickets
+2024-12-10 20:15:59 - Customer 9 purchased tickets
+2024-12-10 20:15:59 - Customer 10 purchased tickets
+2024-12-10 20:15:59 - Configuration saved.
+2024-12-10 20:15:59 - Application finished
+2024-12-10 20:16:36 - Application started
+2024-12-10 20:16:39 - Ticket pool created with capacity: 2
+2024-12-10 20:16:39 - Vendor 1 released tickets
+2024-12-10 20:16:39 - Vendor 2 released tickets
+2024-12-10 20:16:39 - Vendor 3 released tickets
+2024-12-10 20:16:39 - Vendor 4 released tickets
+2024-12-10 20:16:39 - Vendor 5 released tickets
+2024-12-10 20:16:39 - Vendor 6 released tickets
+2024-12-10 20:16:39 - Vendor 7 released tickets
+2024-12-10 20:16:39 - Vendor 8 released tickets
+2024-12-10 20:16:39 - Vendor 9 released tickets
+2024-12-10 20:16:39 - Vendor 10 released tickets
+2024-12-10 20:16:39 - Customer 1 purchased tickets
+2024-12-10 20:16:39 - Customer 2 purchased tickets
+2024-12-10 20:16:39 - Customer 3 purchased tickets
+2024-12-10 20:16:39 - Customer 4 purchased tickets
+2024-12-10 20:16:39 - Customer 5 purchased tickets
+2024-12-10 20:16:39 - Customer 6 purchased tickets
+2024-12-10 20:16:39 - Customer 7 purchased tickets
+2024-12-10 20:16:39 - Customer 8 purchased tickets
+2024-12-10 20:16:39 - Customer 9 purchased tickets
+2024-12-10 20:16:39 - Customer 10 purchased tickets
+2024-12-10 20:16:39 - Configuration saved.
+2024-12-10 20:16:39 - Application finished
+2024-12-10 20:17:07 - Application started
+2024-12-10 20:17:12 - Ticket pool created with capacity: 2
+2024-12-10 20:17:12 - Vendor 1 released tickets
+2024-12-10 20:17:12 - Vendor 2 released tickets
+2024-12-10 20:17:12 - Vendor 3 released tickets
+2024-12-10 20:17:12 - Vendor 4 released tickets
+2024-12-10 20:17:12 - Vendor 5 released tickets
+2024-12-10 20:17:12 - Vendor 6 released tickets
+2024-12-10 20:17:12 - Vendor 7 released tickets
+2024-12-10 20:17:12 - Vendor 8 released tickets
+2024-12-10 20:17:12 - Vendor 9 released tickets
+2024-12-10 20:17:12 - Vendor 10 released tickets
+2024-12-10 20:17:12 - Customer 1 purchased tickets
+2024-12-10 20:17:12 - Customer 2 purchased tickets
+2024-12-10 20:17:12 - Customer 3 purchased tickets
+2024-12-10 20:17:12 - Customer 4 purchased tickets
+2024-12-10 20:17:12 - Customer 5 purchased tickets
+2024-12-10 20:17:12 - Customer 6 purchased tickets
+2024-12-10 20:17:12 - Customer 7 purchased tickets
+2024-12-10 20:17:12 - Customer 8 purchased tickets
+2024-12-10 20:17:12 - Customer 9 purchased tickets
+2024-12-10 20:17:12 - Customer 10 purchased tickets
+2024-12-10 20:17:12 - Configuration saved.
+2024-12-10 20:17:12 - Application finished
+2024-12-10 20:17:55 - Application started
+2024-12-10 20:17:58 - Ticket pool created with capacity: 2
+2024-12-10 20:17:58 - Vendor 1 released tickets
+2024-12-10 20:17:58 - Vendor 2 released tickets
+2024-12-10 20:17:58 - Vendor 3 released tickets
+2024-12-10 20:17:58 - Vendor 4 released tickets
+2024-12-10 20:17:58 - Vendor 5 released tickets
+2024-12-10 20:17:58 - Vendor 6 released tickets
+2024-12-10 20:17:58 - Vendor 7 released tickets
+2024-12-10 20:17:58 - Vendor 8 released tickets
+2024-12-10 20:17:58 - Vendor 9 released tickets
+2024-12-10 20:17:58 - Vendor 10 released tickets
+2024-12-10 20:17:58 - Customer 1 purchased tickets
+2024-12-10 20:17:58 - Customer 2 purchased tickets
+2024-12-10 20:17:58 - Customer 3 purchased tickets
+2024-12-10 20:17:58 - Customer 4 purchased tickets
+2024-12-10 20:17:58 - Customer 5 purchased tickets
+2024-12-10 20:17:58 - Customer 6 purchased tickets
+2024-12-10 20:17:58 - Customer 7 purchased tickets
+2024-12-10 20:17:58 - Customer 8 purchased tickets
+2024-12-10 20:17:58 - Customer 9 purchased tickets
+2024-12-10 20:17:58 - Customer 10 purchased tickets
+2024-12-10 20:17:58 - Configuration saved.
+2024-12-10 20:17:58 - Application finished
+2024-12-10 20:26:12 - Application started
+2024-12-10 20:26:17 - Ticket pool created with capacity: 2
+2024-12-10 20:26:17 - Vendor 1 released tickets
+2024-12-10 20:26:17 - Vendor 2 released tickets
+2024-12-10 20:26:17 - Vendor 3 released tickets
+2024-12-10 20:26:17 - Vendor 4 released tickets
+2024-12-10 20:26:17 - Vendor 5 released tickets
+2024-12-10 20:26:17 - Vendor 6 released tickets
+2024-12-10 20:26:17 - Vendor 7 released tickets
+2024-12-10 20:26:17 - Vendor 8 released tickets
+2024-12-10 20:26:17 - Vendor 9 released tickets
+2024-12-10 20:26:17 - Vendor 10 released tickets
+2024-12-10 20:26:17 - Customer 1 purchased tickets
+2024-12-10 20:26:17 - Customer 2 purchased tickets
+2024-12-10 20:26:17 - Customer 3 purchased tickets
+2024-12-10 20:26:17 - Customer 4 purchased tickets
+2024-12-10 20:26:17 - Customer 5 purchased tickets
+2024-12-10 20:26:17 - Customer 6 purchased tickets
+2024-12-10 20:26:17 - Customer 7 purchased tickets
+2024-12-10 20:26:17 - Customer 8 purchased tickets
+2024-12-10 20:26:17 - Customer 9 purchased tickets
+2024-12-10 20:26:17 - Customer 10 purchased tickets
+2024-12-10 20:26:17 - Configuration saved.
+2024-12-10 20:26:17 - Application finished
+2024-12-10 20:27:33 - Application started
+2024-12-10 20:27:38 - Ticket pool created with capacity: 2
+2024-12-10 20:27:38 - Vendor 1 released tickets
+2024-12-10 20:27:38 - Vendor 2 released tickets
+2024-12-10 20:27:38 - Vendor 3 released tickets
+2024-12-10 20:27:38 - Vendor 4 released tickets
+2024-12-10 20:27:38 - Vendor 5 released tickets
+2024-12-10 20:27:38 - Vendor 6 released tickets
+2024-12-10 20:27:38 - Vendor 7 released tickets
+2024-12-10 20:27:38 - Vendor 8 released tickets
+2024-12-10 20:27:38 - Vendor 9 released tickets
+2024-12-10 20:27:38 - Vendor 10 released tickets
+2024-12-10 20:27:38 - Customer 1 purchased tickets
+2024-12-10 20:27:38 - Customer 2 purchased tickets
+2024-12-10 20:27:38 - Customer 3 purchased tickets
+2024-12-10 20:27:38 - Customer 4 purchased tickets
+2024-12-10 20:27:38 - Customer 5 purchased tickets
+2024-12-10 20:27:38 - Customer 6 purchased tickets
+2024-12-10 20:27:38 - Customer 7 purchased tickets
+2024-12-10 20:27:38 - Customer 8 purchased tickets
+2024-12-10 20:27:38 - Customer 9 purchased tickets
+2024-12-10 20:27:38 - Customer 10 purchased tickets
+2024-12-10 20:27:38 - Configuration saved.
+2024-12-10 20:27:38 - Application finished
+2024-12-10 20:32:53 - Application started
+2024-12-10 20:33:09 - Ticket pool created with capacity: 0
+2024-12-10 20:33:09 - Vendor 1 released tickets
+2024-12-10 20:33:09 - Vendor 2 released tickets
+2024-12-10 20:33:09 - Vendor 3 released tickets
+2024-12-10 20:33:09 - Vendor 4 released tickets
+2024-12-10 20:33:09 - Vendor 5 released tickets
+2024-12-10 20:33:09 - Vendor 6 released tickets
+2024-12-10 20:33:09 - Vendor 7 released tickets
+2024-12-10 20:33:09 - Vendor 8 released tickets
+2024-12-10 20:33:09 - Vendor 9 released tickets
+2024-12-10 20:33:09 - Vendor 10 released tickets
+2024-12-10 20:33:09 - Customer 1 purchased tickets
+2024-12-10 20:33:09 - Customer 2 purchased tickets
+2024-12-10 20:33:09 - Customer 3 purchased tickets
+2024-12-10 20:33:09 - Customer 4 purchased tickets
+2024-12-10 20:33:09 - Customer 5 purchased tickets
+2024-12-10 20:33:09 - Customer 6 purchased tickets
+2024-12-10 20:33:09 - Customer 7 purchased tickets
+2024-12-10 20:33:09 - Customer 8 purchased tickets
+2024-12-10 20:33:09 - Customer 9 purchased tickets
+2024-12-10 20:33:09 - Customer 10 purchased tickets
+2024-12-10 20:33:09 - Configuration saved.
+2024-12-10 20:33:09 - Application finished
+2024-12-10 20:35:39 - Application started
+2024-12-10 20:36:08 - Ticket pool created with capacity: 3
+2024-12-10 20:36:08 - Vendor 1 released tickets
+2024-12-10 20:36:08 - Vendor 2 released tickets
+2024-12-10 20:36:08 - Vendor 3 released tickets
+2024-12-10 20:36:08 - Vendor 4 released tickets
+2024-12-10 20:36:08 - Vendor 5 released tickets
+2024-12-10 20:36:08 - Vendor 6 released tickets
+2024-12-10 20:36:08 - Vendor 7 released tickets
+2024-12-10 20:36:08 - Vendor 8 released tickets
+2024-12-10 20:36:08 - Vendor 9 released tickets
+2024-12-10 20:36:08 - Vendor 10 released tickets
+2024-12-10 20:36:08 - Customer 1 purchased tickets
+2024-12-10 20:36:08 - Customer 2 purchased tickets
+2024-12-10 20:36:08 - Customer 3 purchased tickets
+2024-12-10 20:36:08 - Customer 4 purchased tickets
+2024-12-10 20:36:08 - Customer 5 purchased tickets
+2024-12-10 20:36:08 - Customer 6 purchased tickets
+2024-12-10 20:36:08 - Customer 7 purchased tickets
+2024-12-10 20:36:08 - Customer 8 purchased tickets
+2024-12-10 20:36:08 - Customer 9 purchased tickets
+2024-12-10 20:36:08 - Customer 10 purchased tickets
+2024-12-10 20:36:08 - Configuration saved.
+2024-12-10 20:36:08 - Application finished
+2024-12-10 20:37:00 - Application started
+2024-12-10 20:37:16 - Ticket pool created with capacity: 50
+2024-12-10 20:37:16 - Vendor 1 released tickets
+2024-12-10 20:37:16 - Vendor 2 released tickets
+2024-12-10 20:37:16 - Vendor 3 released tickets
+2024-12-10 20:37:16 - Vendor 4 released tickets
+2024-12-10 20:37:16 - Vendor 5 released tickets
+2024-12-10 20:37:16 - Vendor 6 released tickets
+2024-12-10 20:37:16 - Vendor 7 released tickets
+2024-12-10 20:37:16 - Vendor 8 released tickets
+2024-12-10 20:37:16 - Vendor 9 released tickets
+2024-12-10 20:37:16 - Vendor 10 released tickets
+2024-12-10 20:37:16 - Customer 1 purchased tickets
+2024-12-10 20:37:16 - Customer 2 purchased tickets
+2024-12-10 20:37:16 - Customer 3 purchased tickets
+2024-12-10 20:37:16 - Customer 4 purchased tickets
+2024-12-10 20:37:16 - Customer 5 purchased tickets
+2024-12-10 20:37:16 - Customer 6 purchased tickets
+2024-12-10 20:37:16 - Customer 7 purchased tickets
+2024-12-10 20:37:16 - Customer 8 purchased tickets
+2024-12-10 20:37:16 - Customer 9 purchased tickets
+2024-12-10 20:37:16 - Customer 10 purchased tickets
+2024-12-10 20:37:16 - Configuration saved.
+2024-12-10 20:37:16 - Application finished
+2024-12-10 20:38:26 - Application started
+2024-12-10 20:38:33 - Ticket pool created with capacity: 2
+2024-12-10 20:38:33 - Vendor 1 released tickets
+2024-12-10 20:38:33 - Vendor 2 released tickets
+2024-12-10 20:38:33 - Vendor 3 released tickets
+2024-12-10 20:38:33 - Vendor 4 released tickets
+2024-12-10 20:38:33 - Vendor 5 released tickets
+2024-12-10 20:38:33 - Vendor 6 released tickets
+2024-12-10 20:38:33 - Vendor 7 released tickets
+2024-12-10 20:38:33 - Vendor 8 released tickets
+2024-12-10 20:38:33 - Vendor 9 released tickets
+2024-12-10 20:38:33 - Vendor 10 released tickets
+2024-12-10 20:38:33 - Customer 1 purchased tickets
+2024-12-10 20:38:33 - Customer 2 purchased tickets
+2024-12-10 20:38:33 - Customer 3 purchased tickets
+2024-12-10 20:38:33 - Customer 4 purchased tickets
+2024-12-10 20:38:33 - Customer 5 purchased tickets
+2024-12-10 20:38:33 - Customer 6 purchased tickets
+2024-12-10 20:38:33 - Customer 7 purchased tickets
+2024-12-10 20:38:33 - Customer 8 purchased tickets
+2024-12-10 20:38:33 - Customer 9 purchased tickets
+2024-12-10 20:38:33 - Customer 10 purchased tickets
+2024-12-10 20:38:33 - Configuration saved.
+2024-12-10 20:38:33 - Application finished
+2024-12-10 20:39:29 - Application started
+2024-12-10 20:39:37 - Ticket pool created with capacity: 2
+2024-12-10 20:39:37 - Vendor 1 released tickets
+2024-12-10 20:39:37 - Vendor 2 released tickets
+2024-12-10 20:39:37 - Vendor 3 released tickets
+2024-12-10 20:39:37 - Vendor 4 released tickets
+2024-12-10 20:39:37 - Vendor 5 released tickets
+2024-12-10 20:39:37 - Customer 1 purchased tickets
+2024-12-10 20:39:37 - Customer 2 purchased tickets
+2024-12-10 20:39:37 - Customer 3 purchased tickets
+2024-12-10 20:39:37 - Customer 4 purchased tickets
+2024-12-10 20:39:37 - Customer 5 purchased tickets
+2024-12-10 20:39:37 - Configuration saved.
+2024-12-10 20:39:37 - Application finished
+2024-12-10 20:42:38 - Application started
+2024-12-10 20:42:45 - Ticket pool created with capacity: 3
+2024-12-10 20:42:45 - Vendor 1 released tickets
+2024-12-10 20:42:45 - Vendor 2 released tickets
+2024-12-10 20:42:45 - Vendor 3 released tickets
+2024-12-10 20:42:45 - Vendor 4 released tickets
+2024-12-10 20:42:45 - Vendor 5 released tickets
+2024-12-10 20:42:45 - Customer 1 purchased tickets
+2024-12-10 20:42:45 - Customer 2 purchased tickets
+2024-12-10 20:42:45 - Customer 3 purchased tickets
+2024-12-10 20:42:45 - Customer 4 purchased tickets
+2024-12-10 20:42:45 - Customer 5 purchased tickets
+2024-12-10 20:42:45 - Configuration saved.
+2024-12-10 20:42:45 - Application finished
+2024-12-10 20:43:04 - Application started
+2024-12-10 20:43:10 - Ticket pool created with capacity: 3
+2024-12-10 20:43:10 - Vendor 1 released tickets
+2024-12-10 20:43:10 - Vendor 2 released tickets
+2024-12-10 20:43:10 - Vendor 3 released tickets
+2024-12-10 20:43:10 - Vendor 4 released tickets
+2024-12-10 20:43:10 - Vendor 5 released tickets
+2024-12-10 20:43:10 - Customer 1 purchased tickets
+2024-12-10 20:43:10 - Customer 2 purchased tickets
+2024-12-10 20:43:10 - Customer 3 purchased tickets
+2024-12-10 20:43:10 - Customer 4 purchased tickets
+2024-12-10 20:43:10 - Customer 5 purchased tickets
+2024-12-10 20:43:10 - Configuration saved.
+2024-12-10 20:43:10 - Application finished
+2024-12-10 20:43:17 - Application started
+2024-12-10 20:43:22 - Ticket pool created with capacity: 3
+2024-12-10 20:43:22 - Vendor 1 released tickets
+2024-12-10 20:43:22 - Vendor 2 released tickets
+2024-12-10 20:43:22 - Vendor 3 released tickets
+2024-12-10 20:43:22 - Vendor 4 released tickets
+2024-12-10 20:43:22 - Vendor 5 released tickets
+2024-12-10 20:43:22 - Customer 1 purchased tickets
+2024-12-10 20:43:22 - Customer 2 purchased tickets
+2024-12-10 20:43:22 - Customer 3 purchased tickets
+2024-12-10 20:43:22 - Customer 4 purchased tickets
+2024-12-10 20:43:22 - Customer 5 purchased tickets
+2024-12-10 20:43:22 - Configuration saved.
+2024-12-10 20:43:22 - Application finished
+2024-12-10 20:43:48 - Application started
+2024-12-10 20:43:53 - Ticket pool created with capacity: 3
+2024-12-10 20:43:53 - Vendor 1 released tickets
+2024-12-10 20:43:53 - Vendor 2 released tickets
+2024-12-10 20:43:53 - Vendor 3 released tickets
+2024-12-10 20:43:53 - Vendor 4 released tickets
+2024-12-10 20:43:53 - Vendor 5 released tickets
+2024-12-10 20:43:53 - Customer 1 purchased tickets
+2024-12-10 20:43:53 - Customer 2 purchased tickets
+2024-12-10 20:43:53 - Customer 3 purchased tickets
+2024-12-10 20:43:53 - Customer 4 purchased tickets
+2024-12-10 20:43:53 - Customer 5 purchased tickets
+2024-12-10 20:43:53 - Configuration saved.
+2024-12-10 20:43:53 - Application finished
+2024-12-10 20:45:07 - Application started
+2024-12-10 20:45:32 - Ticket pool created with capacity: 3
+2024-12-10 20:45:32 - Vendor 1 released tickets
+2024-12-10 20:45:32 - Vendor 2 released tickets
+2024-12-10 20:45:32 - Vendor 3 released tickets
+2024-12-10 20:45:32 - Vendor 4 released tickets
+2024-12-10 20:45:32 - Vendor 5 released tickets
+2024-12-10 20:45:32 - Customer 1 purchased tickets
+2024-12-10 20:45:32 - Customer 2 purchased tickets
+2024-12-10 20:45:32 - Customer 3 purchased tickets
+2024-12-10 20:45:32 - Customer 4 purchased tickets
+2024-12-10 20:45:32 - Customer 5 purchased tickets
+2024-12-10 20:45:32 - Configuration saved.
+2024-12-10 20:45:32 - Application finished
+2024-12-11 19:52:53 - Application started
+2024-12-11 19:52:59 - Ticket pool created with capacity: 10
+2024-12-11 19:52:59 - Vendor 1 released tickets
+2024-12-11 19:52:59 - Vendor 2 released tickets
+2024-12-11 19:52:59 - Vendor 3 released tickets
+2024-12-11 19:52:59 - Vendor 4 released tickets
+2024-12-11 19:52:59 - Vendor 5 released tickets
+2024-12-11 19:52:59 - Vendor 6 released tickets
+2024-12-11 19:52:59 - Vendor 7 released tickets
+2024-12-11 19:52:59 - Vendor 8 released tickets
+2024-12-11 19:52:59 - Vendor 9 released tickets
+2024-12-11 19:52:59 - Vendor 10 released tickets
+2024-12-11 19:52:59 - Customer 1 purchased tickets
+2024-12-11 19:52:59 - Customer 2 purchased tickets
+2024-12-11 19:52:59 - Customer 3 purchased tickets
+2024-12-11 19:52:59 - Customer 4 purchased tickets
+2024-12-11 19:52:59 - Customer 5 purchased tickets
+2024-12-11 19:52:59 - Customer 6 purchased tickets
+2024-12-11 19:52:59 - Customer 7 purchased tickets
+2024-12-11 19:52:59 - Customer 8 purchased tickets
+2024-12-11 19:52:59 - Customer 9 purchased tickets
+2024-12-11 19:52:59 - Customer 10 purchased tickets
+2024-12-11 19:52:59 - Configuration saved.
+2024-12-11 19:52:59 - Application finished
+2024-12-11 19:55:20 - Application started
+2024-12-11 19:55:30 - Application started
+2024-12-11 19:55:36 - Ticket pool created with capacity: 4
+2024-12-11 19:55:36 - Vendor 1 released tickets
+2024-12-11 19:55:36 - Vendor 2 released tickets
+2024-12-11 19:55:36 - Vendor 3 released tickets
+2024-12-11 19:55:36 - Vendor 4 released tickets
+2024-12-11 19:55:36 - Vendor 5 released tickets
+2024-12-11 19:55:36 - Vendor 6 released tickets
+2024-12-11 19:55:36 - Vendor 7 released tickets
+2024-12-11 19:55:36 - Vendor 8 released tickets
+2024-12-11 19:55:36 - Vendor 9 released tickets
+2024-12-11 19:55:36 - Vendor 10 released tickets
+2024-12-11 19:55:36 - Customer 1 purchased tickets
+2024-12-11 19:55:36 - Customer 2 purchased tickets
+2024-12-11 19:55:36 - Customer 3 purchased tickets
+2024-12-11 19:55:36 - Customer 4 purchased tickets
+2024-12-11 19:55:36 - Customer 5 purchased tickets
+2024-12-11 19:55:36 - Customer 6 purchased tickets
+2024-12-11 19:55:36 - Customer 7 purchased tickets
+2024-12-11 19:55:36 - Customer 8 purchased tickets
+2024-12-11 19:55:36 - Customer 9 purchased tickets
+2024-12-11 19:55:36 - Customer 10 purchased tickets
+2024-12-11 19:55:36 - Configuration saved.
+2024-12-11 19:55:36 - Application finished
+2024-12-11 19:57:08 - Application started
+2024-12-11 19:57:15 - Ticket pool created with capacity: 1
+2024-12-11 19:57:15 - Vendor 1 released tickets
+2024-12-11 19:57:15 - Vendor 2 released tickets
+2024-12-11 19:57:15 - Vendor 3 released tickets
+2024-12-11 19:57:15 - Vendor 4 released tickets
+2024-12-11 19:57:15 - Vendor 5 released tickets
+2024-12-11 19:57:15 - Vendor 6 released tickets
+2024-12-11 19:57:15 - Vendor 7 released tickets
+2024-12-11 19:57:15 - Vendor 8 released tickets
+2024-12-11 19:57:15 - Vendor 9 released tickets
+2024-12-11 19:57:15 - Vendor 10 released tickets
+2024-12-11 19:57:15 - Customer 1 purchased tickets
+2024-12-11 19:57:15 - Customer 2 purchased tickets
+2024-12-11 19:57:15 - Customer 3 purchased tickets
+2024-12-11 19:57:15 - Customer 4 purchased tickets
+2024-12-11 19:57:15 - Customer 5 purchased tickets
+2024-12-11 19:57:15 - Customer 6 purchased tickets
+2024-12-11 19:57:15 - Customer 7 purchased tickets
+2024-12-11 19:57:15 - Customer 8 purchased tickets
+2024-12-11 19:57:15 - Customer 9 purchased tickets
+2024-12-11 19:57:15 - Customer 10 purchased tickets
+2024-12-11 19:57:15 - Configuration saved.
+2024-12-11 19:57:15 - Application finished
+2024-12-11 19:57:48 - Application started
+2024-12-11 19:57:56 - Ticket pool created with capacity: 1
+2024-12-11 19:57:56 - Vendor 1 released tickets
+2024-12-11 19:57:56 - Vendor 2 released tickets
+2024-12-11 19:57:56 - Vendor 3 released tickets
+2024-12-11 19:57:56 - Vendor 4 released tickets
+2024-12-11 19:57:56 - Vendor 5 released tickets
+2024-12-11 19:57:56 - Vendor 6 released tickets
+2024-12-11 19:57:56 - Vendor 7 released tickets
+2024-12-11 19:57:56 - Vendor 8 released tickets
+2024-12-11 19:57:56 - Vendor 9 released tickets
+2024-12-11 19:57:56 - Vendor 10 released tickets
+2024-12-11 19:57:56 - Customer 1 purchased tickets
+2024-12-11 19:57:56 - Customer 2 purchased tickets
+2024-12-11 19:57:56 - Customer 3 purchased tickets
+2024-12-11 19:57:56 - Customer 4 purchased tickets
+2024-12-11 19:57:56 - Customer 5 purchased tickets
+2024-12-11 19:57:56 - Customer 6 purchased tickets
+2024-12-11 19:57:56 - Customer 7 purchased tickets
+2024-12-11 19:57:56 - Customer 8 purchased tickets
+2024-12-11 19:57:56 - Customer 9 purchased tickets
+2024-12-11 19:57:56 - Customer 10 purchased tickets
+2024-12-11 19:57:56 - Configuration saved.
+2024-12-11 19:57:56 - Application finished
+2024-12-11 20:12:44 - Application started
+2024-12-11 20:12:53 - Ticket pool created with capacity: 5
+2024-12-11 20:12:53 - Vendor 1 released tickets
+2024-12-11 20:12:53 - Vendor 2 released tickets
+2024-12-11 20:12:53 - Vendor 3 released tickets
+2024-12-11 20:12:53 - Vendor 4 released tickets
+2024-12-11 20:12:53 - Vendor 5 released tickets
+2024-12-11 20:12:53 - Vendor 6 released tickets
+2024-12-11 20:12:53 - Vendor 7 released tickets
+2024-12-11 20:12:53 - Vendor 8 released tickets
+2024-12-11 20:12:53 - Vendor 9 released tickets
+2024-12-11 20:12:53 - Vendor 10 released tickets
+2024-12-11 20:12:53 - Customer 1 purchased tickets
+2024-12-11 20:12:53 - Customer 2 purchased tickets
+2024-12-11 20:12:53 - Customer 3 purchased tickets
+2024-12-11 20:12:53 - Customer 4 purchased tickets
+2024-12-11 20:12:53 - Customer 5 purchased tickets
+2024-12-11 20:12:53 - Customer 6 purchased tickets
+2024-12-11 20:12:53 - Customer 7 purchased tickets
+2024-12-11 20:12:53 - Customer 8 purchased tickets
+2024-12-11 20:12:53 - Customer 9 purchased tickets
+2024-12-11 20:12:53 - Customer 10 purchased tickets
+2024-12-11 20:12:53 - Configuration saved.
+2024-12-11 20:12:53 - Application finished
+2024-12-12 02:30:27 - Application started
+2024-12-12 02:30:36 - Ticket pool created with capacity: 3
+2024-12-12 02:30:36 - Vendor 1 released tickets
+2024-12-12 02:30:36 - Vendor 2 released tickets
+2024-12-12 02:30:36 - Vendor 3 released tickets
+2024-12-12 02:30:36 - Vendor 4 released tickets
+2024-12-12 02:30:36 - Vendor 5 released tickets
+2024-12-12 02:30:36 - Vendor 6 released tickets
+2024-12-12 02:30:36 - Vendor 7 released tickets
+2024-12-12 02:30:36 - Vendor 8 released tickets
+2024-12-12 02:30:36 - Vendor 9 released tickets
+2024-12-12 02:30:36 - Vendor 10 released tickets
+2024-12-12 02:30:36 - Customer 1 purchased tickets
+2024-12-12 02:30:36 - Customer 2 purchased tickets
+2024-12-12 02:30:36 - Customer 3 purchased tickets
+2024-12-12 02:30:36 - Customer 4 purchased tickets
+2024-12-12 02:30:36 - Customer 5 purchased tickets
+2024-12-12 02:30:36 - Customer 6 purchased tickets
+2024-12-12 02:30:36 - Customer 7 purchased tickets
+2024-12-12 02:30:36 - Customer 8 purchased tickets
+2024-12-12 02:30:36 - Customer 9 purchased tickets
+2024-12-12 02:30:36 - Customer 10 purchased tickets
+2024-12-12 02:30:36 - Configuration saved.
+2024-12-12 02:30:36 - Application finished
+2024-12-12 07:57:06 - Application started
+2024-12-12 08:18:42 - Application started
+2024-12-12 08:18:48 - Ticket pool created with capacity: 20
+2024-12-12 08:18:48 - Vendor 1 released tickets
+2024-12-12 08:18:48 - Vendor 2 released tickets
+2024-12-12 08:18:48 - Vendor 3 released tickets
+2024-12-12 08:18:48 - Vendor 4 released tickets
+2024-12-12 08:18:48 - Vendor 5 released tickets
+2024-12-12 08:18:48 - Vendor 6 released tickets
+2024-12-12 08:18:48 - Vendor 7 released tickets
+2024-12-12 08:18:48 - Vendor 8 released tickets
+2024-12-12 08:18:48 - Vendor 9 released tickets
+2024-12-12 08:18:48 - Vendor 10 released tickets
+2024-12-12 08:18:48 - Customer 1 purchased tickets
+2024-12-12 08:18:48 - Customer 2 purchased tickets
+2024-12-12 08:18:48 - Customer 3 purchased tickets
+2024-12-12 08:18:48 - Customer 4 purchased tickets
+2024-12-12 08:18:48 - Customer 5 purchased tickets
+2024-12-12 08:18:48 - Customer 6 purchased tickets
+2024-12-12 08:18:48 - Customer 7 purchased tickets
+2024-12-12 08:18:48 - Customer 8 purchased tickets
+2024-12-12 08:18:48 - Customer 9 purchased tickets
+2024-12-12 08:18:48 - Customer 10 purchased tickets
+2024-12-12 08:18:48 - Configuration saved.
+2024-12-12 08:18:48 - Application finished
+2024-12-12 08:19:04 - Application started
+2024-12-12 08:19:09 - Ticket pool created with capacity: 2
+2024-12-12 08:19:09 - Vendor 1 released tickets
+2024-12-12 08:19:09 - Vendor 2 released tickets
+2024-12-12 08:19:09 - Vendor 3 released tickets
+2024-12-12 08:19:09 - Vendor 4 released tickets
+2024-12-12 08:19:09 - Vendor 5 released tickets
+2024-12-12 08:19:09 - Vendor 6 released tickets
+2024-12-12 08:19:09 - Vendor 7 released tickets
+2024-12-12 08:19:09 - Vendor 8 released tickets
+2024-12-12 08:19:09 - Vendor 9 released tickets
+2024-12-12 08:19:09 - Vendor 10 released tickets
+2024-12-12 08:19:09 - Customer 1 purchased tickets
+2024-12-12 08:19:09 - Customer 2 purchased tickets
+2024-12-12 08:19:09 - Customer 3 purchased tickets
+2024-12-12 08:19:09 - Customer 4 purchased tickets
+2024-12-12 08:19:09 - Customer 5 purchased tickets
+2024-12-12 08:19:09 - Customer 6 purchased tickets
+2024-12-12 08:19:09 - Customer 7 purchased tickets
+2024-12-12 08:19:09 - Customer 8 purchased tickets
+2024-12-12 08:19:09 - Customer 9 purchased tickets
+2024-12-12 08:19:09 - Customer 10 purchased tickets
+2024-12-12 08:19:09 - Configuration saved.
+2024-12-12 08:19:09 - Application finished
+2024-12-12 08:19:16 - Application started
+2024-12-12 08:19:19 - Ticket pool created with capacity: 2
+2024-12-12 08:19:19 - Vendor 1 released tickets
+2024-12-12 08:19:19 - Vendor 2 released tickets
+2024-12-12 08:19:19 - Vendor 3 released tickets
+2024-12-12 08:19:19 - Vendor 4 released tickets
+2024-12-12 08:19:19 - Vendor 5 released tickets
+2024-12-12 08:19:19 - Vendor 6 released tickets
+2024-12-12 08:19:19 - Vendor 7 released tickets
+2024-12-12 08:19:19 - Vendor 8 released tickets
+2024-12-12 08:19:19 - Vendor 9 released tickets
+2024-12-12 08:19:19 - Vendor 10 released tickets
+2024-12-12 08:19:19 - Customer 1 purchased tickets
+2024-12-12 08:19:19 - Customer 2 purchased tickets
+2024-12-12 08:19:19 - Customer 3 purchased tickets
+2024-12-12 08:19:19 - Customer 4 purchased tickets
+2024-12-12 08:19:19 - Customer 5 purchased tickets
+2024-12-12 08:19:19 - Customer 6 purchased tickets
+2024-12-12 08:19:19 - Customer 7 purchased tickets
+2024-12-12 08:19:19 - Customer 8 purchased tickets
+2024-12-12 08:19:19 - Customer 9 purchased tickets
+2024-12-12 08:19:19 - Customer 10 purchased tickets
+2024-12-12 08:19:19 - Configuration saved.
+2024-12-12 08:19:19 - Application finished
+2024-12-12 08:20:42 - Application started
+2024-12-12 08:20:46 - Ticket pool created with capacity: 2
+2024-12-12 08:20:46 - Vendor 1 released tickets
+2024-12-12 08:20:46 - Vendor 2 released tickets
+2024-12-12 08:20:46 - Vendor 3 released tickets
+2024-12-12 08:20:46 - Vendor 4 released tickets
+2024-12-12 08:20:46 - Vendor 5 released tickets
+2024-12-12 08:20:46 - Vendor 6 released tickets
+2024-12-12 08:20:46 - Vendor 7 released tickets
+2024-12-12 08:20:46 - Vendor 8 released tickets
+2024-12-12 08:20:46 - Vendor 9 released tickets
+2024-12-12 08:20:46 - Vendor 10 released tickets
+2024-12-12 08:20:46 - Customer 1 purchased tickets
+2024-12-12 08:20:46 - Customer 2 purchased tickets
+2024-12-12 08:20:46 - Customer 3 purchased tickets
+2024-12-12 08:20:46 - Customer 4 purchased tickets
+2024-12-12 08:20:46 - Customer 5 purchased tickets
+2024-12-12 08:20:46 - Customer 6 purchased tickets
+2024-12-12 08:20:46 - Customer 7 purchased tickets
+2024-12-12 08:20:46 - Customer 8 purchased tickets
+2024-12-12 08:20:46 - Customer 9 purchased tickets
+2024-12-12 08:20:46 - Customer 10 purchased tickets
+2024-12-12 08:20:46 - Configuration saved.
+2024-12-12 08:20:46 - Application finished
+2024-12-12 08:20:54 - Application started
+2024-12-12 08:21:53 - Application started
+2024-12-12 08:21:53 - Ticket pool created with capacity: 2
+2024-12-12 08:21:53 - Vendor 1 released tickets
+2024-12-12 08:21:53 - Vendor 2 released tickets
+2024-12-12 08:21:53 - Vendor 3 released tickets
+2024-12-12 08:21:53 - Vendor 4 released tickets
+2024-12-12 08:21:53 - Vendor 5 released tickets
+2024-12-12 08:21:53 - Vendor 6 released tickets
+2024-12-12 08:21:53 - Vendor 7 released tickets
+2024-12-12 08:21:53 - Vendor 8 released tickets
+2024-12-12 08:21:53 - Vendor 9 released tickets
+2024-12-12 08:21:53 - Vendor 10 released tickets
+2024-12-12 08:21:53 - Customer 1 purchased tickets
+2024-12-12 08:21:53 - Customer 2 purchased tickets
+2024-12-12 08:21:53 - Customer 3 purchased tickets
+2024-12-12 08:21:53 - Customer 4 purchased tickets
+2024-12-12 08:21:53 - Customer 5 purchased tickets
+2024-12-12 08:21:53 - Customer 6 purchased tickets
+2024-12-12 08:21:53 - Customer 7 purchased tickets
+2024-12-12 08:21:53 - Customer 8 purchased tickets
+2024-12-12 08:21:53 - Customer 9 purchased tickets
+2024-12-12 08:21:53 - Customer 10 purchased tickets
+2024-12-12 08:21:53 - Application finished
+2024-12-12 08:22:15 - Application started
+2024-12-12 08:22:15 - Ticket pool created with capacity: 2
+2024-12-12 08:22:15 - Vendor 1 released tickets
+2024-12-12 08:22:15 - Vendor 2 released tickets
+2024-12-12 08:22:15 - Vendor 3 released tickets
+2024-12-12 08:22:15 - Vendor 4 released tickets
+2024-12-12 08:22:15 - Vendor 5 released tickets
+2024-12-12 08:22:15 - Vendor 6 released tickets
+2024-12-12 08:22:15 - Vendor 7 released tickets
+2024-12-12 08:22:15 - Vendor 8 released tickets
+2024-12-12 08:22:15 - Vendor 9 released tickets
+2024-12-12 08:22:15 - Vendor 10 released tickets
+2024-12-12 08:22:15 - Customer 1 purchased tickets
+2024-12-12 08:22:15 - Customer 2 purchased tickets
+2024-12-12 08:22:15 - Customer 3 purchased tickets
+2024-12-12 08:22:15 - Customer 4 purchased tickets
+2024-12-12 08:22:15 - Customer 5 purchased tickets
+2024-12-12 08:22:15 - Customer 6 purchased tickets
+2024-12-12 08:22:15 - Customer 7 purchased tickets
+2024-12-12 08:22:15 - Customer 8 purchased tickets
+2024-12-12 08:22:15 - Customer 9 purchased tickets
+2024-12-12 08:22:15 - Customer 10 purchased tickets
+2024-12-12 08:22:15 - Application finished
+2024-12-12 08:22:29 - Application started
+2024-12-12 08:22:29 - Ticket pool created with capacity: 2
+2024-12-12 08:22:29 - Vendor 1 released tickets
+2024-12-12 08:22:29 - Vendor 2 released tickets
+2024-12-12 08:22:29 - Vendor 3 released tickets
+2024-12-12 08:22:29 - Vendor 4 released tickets
+2024-12-12 08:22:29 - Vendor 5 released tickets
+2024-12-12 08:22:29 - Vendor 6 released tickets
+2024-12-12 08:22:29 - Vendor 7 released tickets
+2024-12-12 08:22:29 - Vendor 8 released tickets
+2024-12-12 08:22:29 - Vendor 9 released tickets
+2024-12-12 08:22:29 - Vendor 10 released tickets
+2024-12-12 08:22:29 - Customer 1 purchased tickets
+2024-12-12 08:22:29 - Customer 2 purchased tickets
+2024-12-12 08:22:29 - Customer 3 purchased tickets
+2024-12-12 08:22:29 - Customer 4 purchased tickets
+2024-12-12 08:22:29 - Customer 5 purchased tickets
+2024-12-12 08:22:29 - Customer 6 purchased tickets
+2024-12-12 08:22:29 - Customer 7 purchased tickets
+2024-12-12 08:22:29 - Customer 8 purchased tickets
+2024-12-12 08:22:29 - Customer 9 purchased tickets
+2024-12-12 08:22:29 - Customer 10 purchased tickets
+2024-12-12 08:22:29 - Application finished
+2024-12-12 08:22:36 - Application started
+2024-12-12 08:29:39 - Application started
+2024-12-12 08:30:44 - Ticket pool created with capacity: 20
+2024-12-12 08:30:44 - Vendor 1 released tickets
+2024-12-12 08:30:44 - Vendor 2 released tickets
+2024-12-12 08:30:44 - Vendor 3 released tickets
+2024-12-12 08:30:44 - Vendor 4 released tickets
+2024-12-12 08:30:44 - Vendor 5 released tickets
+2024-12-12 08:30:44 - Vendor 6 released tickets
+2024-12-12 08:30:44 - Vendor 7 released tickets
+2024-12-12 08:30:44 - Vendor 8 released tickets
+2024-12-12 08:30:44 - Vendor 9 released tickets
+2024-12-12 08:30:44 - Vendor 10 released tickets
+2024-12-12 08:30:44 - Customer 1 purchased tickets
+2024-12-12 08:30:44 - Customer 2 purchased tickets
+2024-12-12 08:30:44 - Customer 3 purchased tickets
+2024-12-12 08:30:44 - Customer 4 purchased tickets
+2024-12-12 08:30:44 - Customer 5 purchased tickets
+2024-12-12 08:30:44 - Customer 6 purchased tickets
+2024-12-12 08:30:44 - Customer 7 purchased tickets
+2024-12-12 08:30:44 - Customer 8 purchased tickets
+2024-12-12 08:30:44 - Customer 9 purchased tickets
+2024-12-12 08:30:44 - Customer 10 purchased tickets
+2024-12-12 08:30:44 - Configuration saved.
+2024-12-12 08:30:44 - Application finished
